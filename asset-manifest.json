@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/anime_w/static/css/main.9facd1ca.css",
+    "main.js": "/anime_w/static/js/main.a53577e6.js",
+    "static/js/787.889b9991.chunk.js": "/anime_w/static/js/787.889b9991.chunk.js",
+    "static/media/bg.jpg": "/anime_w/static/media/bg.af139552d9f9f67483c5.jpg",
+    "static/media/a4.jpg": "/anime_w/static/media/a4.caaa933447e87754c933.jpg",
+    "static/media/a9.jpg": "/anime_w/static/media/a9.749286a6538687d07909.jpg",
+    "static/media/a5.jpg": "/anime_w/static/media/a5.90af09c5d1c3e7a16aa3.jpg",
+    "static/media/a1.jpg": "/anime_w/static/media/a1.4345eff96b62f8bc48a7.jpg",
+    "static/media/a10.jpg": "/anime_w/static/media/a10.23b27b204e422c188dbd.jpg",
+    "static/media/a2.jpg": "/anime_w/static/media/a2.8ad0377a7ba14829117e.jpg",
+    "static/media/a3.jpg": "/anime_w/static/media/a3.5305040e4c290abe2b1f.jpg",
+    "static/media/a7.jpg": "/anime_w/static/media/a7.ac93d52e3f2010864dab.jpg",
+    "static/media/a8.jpg": "/anime_w/static/media/a8.4106a80f7921508649d0.jpg",
+    "static/media/a6.jpg": "/anime_w/static/media/a6.af965abdab19b2685294.jpg",
+    "index.html": "/anime_w/index.html",
+    "main.9facd1ca.css.map": "/anime_w/static/css/main.9facd1ca.css.map",
+    "main.a53577e6.js.map": "/anime_w/static/js/main.a53577e6.js.map",
+    "787.889b9991.chunk.js.map": "/anime_w/static/js/787.889b9991.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9facd1ca.css",
+    "static/js/main.a53577e6.js"
+  ]
+}
